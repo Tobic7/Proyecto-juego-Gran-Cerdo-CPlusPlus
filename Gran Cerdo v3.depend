@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1716235929 source:c:\users\tobic\onedrive\escritorio\c++\gran cerdo v3\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+
+1715996249 c:\users\tobic\onedrive\escritorio\c++\gran cerdo v3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1716322861 c:\users\tobic\onedrive\escritorio\c++\gran cerdo v3\funciones.h
+	"rlutil.h"
+	<iostream>
+
+1717012320 source:c:\users\tobic\onedrive\escritorio\gran cerdo v3\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1716339584 c:\users\tobic\onedrive\escritorio\gran cerdo v3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717021446 c:\users\tobic\onedrive\escritorio\gran cerdo v3\funciones.h
+	<iostream>
+	<windows.h>
+
+1717040437 source:c:\users\tobic\onedrive\escritorio\gran cerdo v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1716339584 c:\users\tobic\onedrive\escritorio\gran cerdo v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717040696 c:\users\tobic\onedrive\escritorio\gran cerdo v4\funciones.h
+	<iostream>
+	<windows.h>
+
+1717688827 source:c:\users\tobic\onedrive\escritorio\gran cerdo final\gran cerdo final\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1717628231 c:\users\tobic\onedrive\escritorio\gran cerdo final\gran cerdo final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717689359 c:\users\tobic\onedrive\escritorio\gran cerdo final\gran cerdo final\funciones.h
+	<iostream>
+	<windows.h>
+
+1717700383 source:c:\users\tobic\onedrive\escritorio\gran cerdo final por fin\gran cerdo final\gran cerdo final\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1717696039 c:\users\tobic\onedrive\escritorio\gran cerdo final por fin\gran cerdo final\gran cerdo final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717700003 c:\users\tobic\onedrive\escritorio\gran cerdo final por fin\gran cerdo final\gran cerdo final\funciones.h
+	<iostream>
+	<windows.h>
+
+1717855569 source:c:\users\tobic\onedrive\escritorio\gran cerdo terminado\gran cerdo final\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1717855569 c:\users\tobic\onedrive\escritorio\gran cerdo terminado\gran cerdo final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1717857938 c:\users\tobic\onedrive\escritorio\gran cerdo terminado\gran cerdo final\funciones.h
+	<iostream>
+	<windows.h>
+
